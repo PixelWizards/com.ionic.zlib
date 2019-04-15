@@ -2,6 +2,8 @@
 
 Ionic's zlib library is an often used C# library. This is simply a wrapper of the package in Unity's Package Manager format.
 
+https://archive.codeplex.com/?p=dotnetzip
+
 No copyright over the zlib code itself is implied or taken. All I've done is wrapped the existing code so that you can link it from Unity's Package Manager
 
 # Add to your project
