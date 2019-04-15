@@ -7,10 +7,10 @@ No copyright over the zlib code itself is implied or taken. All I've done is wra
 # Add to your project
 Open the manifest.json for your project and add the following entry to your list of dependencies
 
-"com.ionic.zlib": "https://github.com/PixelWizards/com.ionic.zlib.git",
+```"com.ionic.zlib": "https://github.com/PixelWizards/com.ionic.zlib.git",```
 
 For example:
-
+```
   "dependencies": {
     "com.newtonsoft.json": "https://github.com/PixelWizards/com.ionic.zlib.git",
     "com.unity.ads": "2.0.8",
