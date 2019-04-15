@@ -1,0 +1,9 @@
+{
+	"name": "com.ionic.zlib",
+	"displayName":"Ionic Zlib Library",
+	"version": "0.1.0-preview",
+	"unity": "2018.3",
+	"description": "Ionic Zlib Library",
+	"dependencies": {
+	}
+}
