@@ -4,6 +4,11 @@
 	"version": "1.0.1",
 	"unity": "2018.3",
 	"description": "Ionic Zlib Library",
+	"author": {
+    "name": "Pixel Wizards",
+    "email": "support@pixelwizards.ca",
+    "url": "www.pixelwizards.ca"
+  },
 	"dependencies": {
 	}
 }
