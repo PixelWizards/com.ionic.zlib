@@ -1,5 +1,7 @@
 # Ionic ZLIB - Unity Package Manager edition
 
+[![openupm](https://img.shields.io/npm/v/com.ionic.zlib?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.ionic.zlib/)
+
 Ionic's zlib library is an often used C# library. This is simply a wrapper of the package in Unity's Package Manager format.
 
 https://archive.codeplex.com/?p=dotnetzip
@@ -7,6 +9,16 @@ https://archive.codeplex.com/?p=dotnetzip
 No copyright over the zlib code itself is implied or taken. All I've done is wrapped the existing code so that you can link it from Unity's Package Manager
 
 # Add to your project
+
+## Install via OpenUPM
+
+The package is available on the [openupm registry](https://openupm.com). It's recommended to install it via [openupm-cli](https://github.com/openupm/openupm-cli).
+
+```
+openupm add com.ionic.zlib
+```
+
+## Install via git url
 Open the manifest.json for your project and add the following entry to your list of dependencies
 
 ```"com.ionic.zlib": "https://github.com/PixelWizards/com.ionic.zlib.git",```
